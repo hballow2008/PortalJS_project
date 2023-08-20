@@ -9,6 +9,6 @@ group: 'Awesome'
 
 Built with PortalJS
 
-## Table.
+## Table
 
 <Table url="data.csv" />
